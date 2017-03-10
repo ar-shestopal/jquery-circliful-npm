@@ -6,9 +6,11 @@ Exmples: https://jsfiddle.net/9dajqcr1/
 ```npm install jquery-circliful```
 
 ### Setup 
-```require('circliful-npm')(window, $);```
+```require('jquery-circliful')(window, $);```
 
 Or include ```./js/jquery.circliful.js``` to your scrip.
+
+Add stylesheets from ```./css``` to your Site.
 
 
 ### How to use
